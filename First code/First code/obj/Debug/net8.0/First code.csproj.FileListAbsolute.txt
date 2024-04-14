@@ -1,0 +1,14 @@
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\bin\Debug\net8.0\First code.exe
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\bin\Debug\net8.0\First code.deps.json
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\bin\Debug\net8.0\First code.runtimeconfig.json
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\bin\Debug\net8.0\First code.dll
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\bin\Debug\net8.0\First code.pdb
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.AssemblyInfoInputs.cache
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.AssemblyInfo.cs
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.csproj.CoreCompileInputs.cache
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.dll
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\refint\First code.dll
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.pdb
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\First code.genruntimeconfig.cache
+C:\Users\z004wt9z\OneDrive - Siemens Healthineers\arwa\C#\First code\First code\obj\Debug\net8.0\ref\First code.dll
